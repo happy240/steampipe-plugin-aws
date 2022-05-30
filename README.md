@@ -1,3 +1,10 @@
+Mod List
+***
+- Add Table 'aws_efs_file_system_metric_client_connections_daily'
+
+Origin README
+***
+
 ![image](https://hub.steampipe.io/images/plugins/turbot/aws-social-graphic.png)
 
 # AWS Plugin for Steampipe
